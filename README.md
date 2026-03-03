@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="mailto:tenoabba@gmail.com"><img src="https://img.shields.io/badge/Email-tenoabba@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/turkiabba"><img src="https://img.shields.io/badge/LinkedIn-Turki%20Abba-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/turki-abba/"><img src="https://img.shields.io/badge/LinkedIn-Turki%20Abba-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Location-N'Djamena%2C%20Chad-green?style=for-the-badge"/>
 </p>
 
@@ -104,9 +104,9 @@ I'm a **detail-oriented Software Engineer** with hands-on experience in mission-
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=TenoAbba&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TenoAbba&layout=compact&theme=tokyonight" alt="Top Languages"/>
 </p>
 
 ---
